@@ -1,4 +1,8 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋, I'm Guilherme Arnhold</h1>
+  
+<h2 align="center">Information Security Specialist | SIEM & SOAR | Threat Detection & Incident Response | Splunk Admin | SC-200 | AZ-500 | SOC | Cloud Security</h2>
+
+<h3 align="center">🔧 Tools & Technologies I Work With</h3>
 
 ###
 
@@ -23,7 +27,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/guilherme-arnhold/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
